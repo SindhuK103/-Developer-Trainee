@@ -1,9 +1,18 @@
-.App {
+.App-Header {
   text-align: center;
+  background-color: #282c34;
 }
 
+.App-Products {
+
+  table-layout: 1px solid black;
+  }
+
+
+
+
 .App-logo {
-  height: 40vmin;
+  height: 40v min;
   pointer-events: none;
 }
 
@@ -21,12 +30,14 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color:green;
 }
+
 
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
